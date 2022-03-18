@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio N.3", "Ejercicio N.3\Ejercicio N.3.csproj", "{A86271C8-A45D-45F6-B360-D63249406686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos Pograma", "Datos Pograma\Datos Pograma.csproj", "{1A62BD44-BCA4-4675-8BDE-1D3205F78070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86271C8-A45D-45F6-B360-D63249406686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86271C8-A45D-45F6-B360-D63249406686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86271C8-A45D-45F6-B360-D63249406686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86271C8-A45D-45F6-B360-D63249406686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A62BD44-BCA4-4675-8BDE-1D3205F78070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A62BD44-BCA4-4675-8BDE-1D3205F78070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A62BD44-BCA4-4675-8BDE-1D3205F78070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A62BD44-BCA4-4675-8BDE-1D3205F78070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F8E3F5C-3780-4B62-8413-383DEE19CFB8}
+	EndGlobalSection
+EndGlobal
