@@ -41,7 +41,7 @@ namespace Ejercicio_N._3
             if (inserto)
             {
                 MessageBox.Show("Se ha registrado con exito");
-                return;
+                
             }
             
             else
